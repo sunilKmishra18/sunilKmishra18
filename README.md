@@ -209,13 +209,13 @@ I'm passionate about:
 
 <div align="center">
 
-| Platform         | Link                                                                               |
-| ---------------- | ---------------------------------------------------------------------------------- |
-| 🌐 **Website**   | [Digital Dharma Academy](https://digitaldharmaacademy.com)                         |
-| 🐦 **Twitter**   | [@SunilTechDharma](https://x.com/SunilTechDharma)                                  |
-| 📧 **Email**     | Connect via [Digital Dharma Academy](https://digitaldharmaacademy.com)             |
-| 🎓 **LinkedIn**  | [Connect & Collaborate](<[#](https://www.linkedin.com/in/sunilmishratechdharma/)>) |
-| 📱 **Community** | WhatsApp/Telegram groups for Digital Warriors                                      |
+| Platform         | Link                                                                                             |
+| ---------------- | ------------------------------------------------------------------------------------------------ |
+| 🌐 **Website**   | [Digital Dharma Academy](https://digitaldharmaacademy.com)                                       |
+| 🐦 **Twitter**   | [@SunilTechDharma](https://x.com/SunilTechDharma)                                                |
+| 📧 **Email**     | Connect via [Digital Dharma Academy](https://digitaldharmaacademy.com)                           |
+| 🎓 **LinkedIn**  | [Connect & Collaborate](https://www.linkedin.com/in/sunilmishratechdharma/)                      |
+| 📱 **Community** | [WhatsApp/Telegram groups for Digital Warriors](https://www.facebook.com/groups/782673824938765) |
 
 </div>
 

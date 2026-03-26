@@ -10,7 +10,7 @@
 
 **Blending Technical Mastery × Spiritual Awakening × Purpose-Driven Career Transformation**
 
-[🌐 Digital Dharma Academy](https://digitaldharmaacademy.com) • [🐦 Twitter](https://x.com/SunilTechDharma) • [💼 LinkedIn](https://www.linkedin.com/in/sunilmishratechdharma/) • [📧 Connect](sunilmishra.techmentor@gmail.com)
+[🌐 Digital Dharma Academy](https://digitaldharmaacademy.com) • [🐦 Twitter](https://x.com/SunilTechDharma) • [💼 LinkedIn](https://www.linkedin.com/in/sunilmishratechdharma/)
 
 </div>
 

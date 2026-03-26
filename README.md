@@ -237,7 +237,7 @@ I'm passionate about:
 
 ## 📈 Current Focus (2024-2025)
 
-- 🚀 Scaling **Digital Dharma Academy** to 10,000+ students
+- 🚀 Pioneering **Digital Dharma Academy**—building a community where tech professionals transform their careers through purpose, mastery, and consciousness
 - 📹 Launching **Digital Dharma YouTube Blueprint Series**
 - 🎙️ Expanding **AntarYatra Podcast** Season 2 with mentors & guest speakers
 - 🤖 Deep dives into **Latest AI & LLM applications**
@@ -269,5 +269,4 @@ Whether you're looking to:
 
 _Last Updated: March 2025_
 
-</div>render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>

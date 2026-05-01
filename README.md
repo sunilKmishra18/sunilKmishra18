@@ -92,7 +92,7 @@ My philosophy: _Technology is not just about building products—it's about buil
 
 The flagship platform for transforming IT professionals into purpose-driven digital warriors.
 
-- **Tech Stack:** Full Stack (JavaScript/React/Node.js)
+- **Tech Stack:** Full Stack (JavaScript/React/Node.js), AI/ML
 - **Focus:** Education, Coaching, Community
 - **Status:** Active & Growing
 - [🔗 Visit Academy](https://digitaldharmaacademy.com)
@@ -136,6 +136,16 @@ Full-stack web application demonstrating CRUD operations and modern web developm
 - **Tech Stack:** JavaScript, Node.js, Express.js, MongoDB
 - **Focus:** Best practices in full-stack development
 - [🔗 Repository](https://github.com/sunilKmishra18/employee-management-CRUD-web-app)
+
+### 7. **Panchang AI App** 👔
+
+Panchang AI brings deterministic algorithms + traditional wisdom into a single, bilingual interface. It answers: "Is today good for my wedding? My business launch? My travel?" with data, not guesswork.
+
+- **Tech Stack:** React 19 + TypeScript + Vite, Tailwind CSS + custom CSS variables (light/dark themes), React Context API
+- **Focus:** Vedic calendar science (Panchang) has been guarded knowledge — requiring astrologers or years of study. Modern spiritual practitioners need instant, accessible guidance on auspicious timings without leaving their device.
+- [🔗 Repository](https://github.com/sunilKmishra18/Panchang-AI)
+
+---
 
 ---
 
